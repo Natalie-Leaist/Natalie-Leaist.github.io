@@ -1,0 +1,24 @@
+docs:
+  - title: "About Me"
+    url: /
+  - title: My CV
+    url: /docs/cv/
+  - title: Courses
+    url: /docs/courses/
+  - title: Projects
+    children:
+      - title: "CGEM Accelerometer System"
+        url: /docs/projects/cgem-accelerometer-system/
+      - title: "UBC Orbit Satellite Design Team"
+        url: /docs/projects/orbit/
+      - title: "Self Balancing Robot"
+        url: /docs/projects/self-balancing-robot/
+      - title: "Wordle Solver"
+        url: /docs/projects/wordle-solver/
+      - title: "Small Projects"
+        url: /docs/projects/small-projects/
+
+
+
+
+
