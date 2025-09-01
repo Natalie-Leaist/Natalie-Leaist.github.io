@@ -11,8 +11,8 @@ classes: wide
 gallery:
     - url: /images/about_images/me.jpg
       image_path: /images/about_images/me.jpg
-    - url: /images/about_images/ski_comp.JPG
-      image_path: /images/about_images/ski_comp.JPG
+    - url: /images/about_images/ski_comp2.jpg
+      image_path: /images/about_images/ski_comp2.jpg
     - url: /images/about_images/selfie.jpg
       image_path: /images/about_images/selfie.jpg
     - url: /images/about_images/bike.jpg
