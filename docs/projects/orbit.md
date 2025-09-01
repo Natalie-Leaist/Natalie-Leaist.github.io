@@ -4,17 +4,17 @@ title: UBC Orbit Satellite Design Team
 permalink: /docs/projects/orbit/
 sidebar:
   nav: "docs"
+classes: wide
+author_profile: true
 
 header:
   overlay_image: /images/headers/earth_orbit_2.jpg
   caption: "Image credit: rawpixel (CC BY)"
-
-classes: wide
 ---
 
-# UBC Orbit
-
 I am a member of UBC Orbit, the University of British Columbia's Satellite Design Team. We are currently working on ALEASAT, a CubeSat that will be used by amateur radio operators to request images of Earth to assist with disaster relief. ALEASAT is supported by the European Space Agency's Fly Your Satellite! Program.
+
+Learn more about UBC Orbit [here.](https://www.ubcorbit.com/)
 
 ## Firmware
 From September 2024 - May 2025, I worked as a firmware developer on the command and data handling subteam. My main accomplishment was implementing a command to measure the CPU usage of tasks in a real-time operating system (FreeRTOS).

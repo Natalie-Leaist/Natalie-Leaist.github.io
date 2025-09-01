@@ -20,6 +20,8 @@ gallery:
 
 header:
   overlay_image: /images/headers/aurora.jpg
+
+author_profile: true
 ---
 
 # About Me
@@ -36,6 +38,6 @@ Beyond engineering, I am also an avid skier and enjoyer of the outdoors. I moved
 
 When I moved to Whistler, I also took advantage of other unique opportunities. I learned to mountain bike, becoming a certified instructor in my second season of riding. I also worked for two summers as an outdoor adventure guide on Canada’s 2nd longest zipline.
 
-If you’d like to connect or learn more about my work, feel free to reach out. I’d love to hear from you!
+If you’d like to connect or learn more about my work, feel free to [reach out](https://www.linkedin.com/in/natalie-leaist). I’d love to hear from you!
 
 {% include gallery %}
