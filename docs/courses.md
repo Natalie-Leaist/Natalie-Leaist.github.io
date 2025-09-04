@@ -9,7 +9,7 @@ classes: wide
 author_profile: true
 ---
 
-*Note that courses marked with an asterisk are in progress and will be completed Decemeber 2025.*
+*Note that courses marked with an asterisk are in progress and will be completed December 2025.*
 
 ## 300 Level Courses
 

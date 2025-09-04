@@ -29,12 +29,12 @@ Check out the github repo [here.](https://github.com/Natalie-Leaist/wordle-solve
 - Inspired by the original Wordle game by Josh Wardle 
 
 ## More Details
-### Scripts:
+### Scripts
 - demo.py: example script to run the solver with the solution word of your choosing
 - interactive_solver.py: the solver acts as a helper while the user plays wordle, recommending guesses and asking the human for feedback after each guess
 - average_guesses.py: runs the game many times in a row with different solution words (found in the file secret_words.txt), and finds the average and maximum number of guesses across all the test games
 
-### Project Files:
+### Project Files
 wordle_game.py: defines the WordleGame class
 - Stores the solution word and max number of guesses
 - Provides feedback for each guess:
