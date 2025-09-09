@@ -13,6 +13,8 @@ author_profile: true
 ## About CGEM
 During summer 2025 I worked as a research intern in UBC's Experimental Cosmology Group, led by Dr. Mark Halpern and Dr. Gary Hinshaw. I worked on the Canadian Galactic Emmision Mapper (CGEM), which is a telescope that will be used to help detect gravitational waves from the early universe. CGEM is a collaboration with UBC, NASA Goddard, and DRAO. The telescope is located at the DRAO in Penticton, BC.
 
+Read more about CGEM [here.](https://cgem.ubc.ca/)
+
 ## The Accelerometer System
 To monitor and characterize mechanical vibrations in the telescope structure, as well as measure the inclination of the telescope dish, the experiment will use high-precision accelerometers mounted directly on the telescope. 
 

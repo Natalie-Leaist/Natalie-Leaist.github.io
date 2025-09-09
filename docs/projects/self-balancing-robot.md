@@ -8,6 +8,8 @@ classes: wide
 author_profile: true
 ---
 
+{% include figure image_path="/images/robot/robot_side1.jpeg" %}
+
 I designed and built a self-balancing robot to gain experience with control systems, sensors, and embedded programming. The robot has two wheels, and balances similar to a segway. The system was built with an Arduino, MPU6050 IMU, DRV8825 stepper motor drivers, and NEMA-17 stepper motors, all powererd by a LiPo battery.
 
 The MPU6050 IMU provided raw linear acceleration and angular velocity data over I2C to the Arduino. I implemented a complementary filter to combine these two signals into a stable estimate of the robot’s pitch angle. This angle was then fed into a PID controller. The PID controller calculates the difference between measured tilt and the desired position, and then outputs the desired speed of the motor in steps per second.

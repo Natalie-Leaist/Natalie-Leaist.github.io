@@ -12,7 +12,7 @@ gallery:
     - url: /images/about_images/me.jpg
       image_path: /images/about_images/me.jpg
     - url: /images/about_images/ski_comp2.jpg
-      image_path: /images/about_images/ski_comp2.jpg
+      image_path: /images/about_images/ski_comp.jpg
     - url: /images/about_images/selfie.jpg
       image_path: /images/about_images/selfie.jpg
     - url: /images/about_images/bike.jpg
@@ -26,7 +26,7 @@ author_profile: true
 
 # About Me
 
-Hi! My name is Natalie Leaist and I am an Engineering Physics student at the University of British Columbia, also planning to minor in honours math. I am passionate about combining my love for math and physics with software, electrical and mechanical engineering. I love hands-on work and problem solving, as well as collaborating with others. I currently have a 94.5% (A+) cumulative average.
+Hi! My name is Natalie Leaist and I am an Engineering Physics student at the University of British Columbia, also planning to minor in honours math. I am passionate about combining my love for math and physics with software, electrical and mechanical engineering. I love hands-on work and problem solving, as well as collaborating with others. I currently have a 94.6% (A+) cumulative average.
 
 I have five years of programming experience, ranging from high school computer science courses to my work on the UBC Orbit Satellite Design Team. I also started a girls' coding club at my high school. I have built a strong foundation in C, C++, Python and Java. Additionally, I also have beginner knowledge in javascript and MATLAB. 
 
