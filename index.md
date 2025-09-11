@@ -34,7 +34,7 @@ I am a member on the UBC Orbit Satellite Design Team. I previously worked on fir
 
 This summer, I worked as a research intern at UBC's Experimental Cosmology Lab, on the CGEM project, a telescope that will be used to help detect gravitational waves from the early universe. I helped design the accelerometer system for the rotating telescope mount. 
 
-Beyond engineering, I am also an avid skier and enjoyer of the outdoors. I moved to Whistler in 2021 and began competing in Freeride Skiing. Freeride skiing is a type of skiing that takes place on high alpine terrain with lots of cliffs. I competed in Freeride Skiing for 3 seasons at the North American Level. In my first season (2021-2022), I finished 5th in Canada, and in my second season (2022-2023), I finished 2nd in Canada. I also qualified for the Junior World Championships in Kappl, Austria. 
+Beyond engineering, I am also an avid skier and enjoyer of the outdoors. I moved to Whistler in 2021 and began competing in Freeride Skiing. Freeride skiing is a type of skiing that takes place on high alpine terrain with lots of cliffs. I competed in Freeride Skiing for 3 seasons at the North American Level. In my first season (2021-2022), I finished 5th in Canada, and in my second season (2022-2023), I finished 2nd in Canada. I also qualified for the Junior World Championships. 
 
 When I moved to Whistler, I also took advantage of other unique opportunities. I learned to mountain bike, becoming a certified instructor in my second season of riding. I also worked for two summers as an outdoor adventure guide on Canada’s 2nd longest zipline.
 
