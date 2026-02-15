@@ -25,7 +25,7 @@ Beyond this accelerometer application, the system I developed is a versatile dat
 [Link to the github repo.](https://github.com/cgem-experiment/Accelerometers)
 
 ## My Contributions
-- Designed and implemented firmware on an STM32 microcontroller to interface with an analog digital converter (AD7177-2) over SPI
+- Designed and implemented firmware on an STM32 microcontroller to interface with a 32-bit sigma-delta analog digital converter (AD7177-2) over SPI
 - Configured the ADC for multi-channel continuous conversion and integrated DMA for efficient data transfer
 - Used FreeRTOS and interrupts to schedule acquisition, timestamping, and Ethernet transmission tasks
 - Implemented UDP networking via LwIP to send data to a host computer at ~830 Hz per channel

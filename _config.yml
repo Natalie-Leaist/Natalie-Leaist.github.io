@@ -17,12 +17,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+mathjax: true
 
 title: Natalie Leaist
-subtitle: Engineering Portfolio
+subtitle: Portfolio
 email: natalie.leaist@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Engineering Portfolio
+  Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Natalie-Leaist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # _config.yml
