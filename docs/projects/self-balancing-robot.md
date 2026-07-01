@@ -8,7 +8,7 @@ classes: wide
 author_profile: true
 ---
 
-{% include figure image_path="/images/robot/robot_side1.jpeg" %}
+{% include figure image_path="/images/robot/robot_side1.JPEG" %}
 
 I designed and built a self-balancing robot to gain experience with control systems, sensors, and embedded programming. The robot has two wheels, and balances similar to a segway. The system was built with an Arduino, MPU6050 IMU, DRV8825 stepper motor drivers, and NEMA-17 stepper motors, all powererd by a LiPo battery.
 
