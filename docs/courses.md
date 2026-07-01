@@ -13,20 +13,26 @@ author_profile: true
 
 | Course Code | Course Title                                      | Description |
 |-------------|---------------------------------------------------|-------------|
-| MATH 307    | Applied Linear Algebra                            | Applications of linear algebra to problems in science and engineering, with emphasis on using computer systems to solve problems. |
+| MATH 307    | Applied Linear Algebra                            | A linear algebra course covering matrix decompositions (LU, QR, SVD), orthogonality, eigenvalues, and the discrete Fourier transform, with computational applications in interpolation, data fitting, image processing, and signal analysis using Python and SciPy. |
 | MATH 317    | Calculus IV                                       | A vector calculus course covering parameterization of curves, parameterizations of surfaces, arc length, vector fields, line integrals, work integrals, surface integrals, and integral theorems (Divergence Theorem, Green's theorem, and Stokes' theorem). The course concluded with an introduction to differentials forms and generalized Stokes' theorem. |
 
 ## 200 Level Courses
 
 | Course Code | Course Title                                      | Description |
 |-------------|---------------------------------------------------|-------------|
+| ENPH 253    | Introduction to Instrument Design                 | Hands-on design and development of an autonomous Mars rover robot, covering mechanical and electrical systems, sensor and actuator integration, microcontroller implementation, and technical communication throughout the engineering design process. |
+| ENPH 257    | Heat and Thermodynamics                           | Thermodynamics course covering basic statistical mechanics, ideal gas law, entropy, the fundamental identity of thermodynamics, free energy, equilibrium, engines and refrigerators. |
+| ENPH 259    | Experimental Techniques                           | A course intended for second year Engineering Physics students. Focuses on basic experimental techniques and analysis, as well as presentation and communication of results. |
+| ENPH 270    | Mechanics II                                      | A course in planar rigid body kinematics and kinetics, covering translational and rotational motion, equations of motion, mass moment of inertia, and conservation of energy and momentum. |
+| PHYS 250    | Introduction to Modern Physics                    | An introduction to modern physics covering wave-particle duality, special relativity, atomic and nuclear processes, quantum mechanics, lasers and semiconductors. |
 | MATH 220    | Mathematical Proof                                | A rigorous course emphasizing logic, proof methods, and proof structure. The course also taught sets, functions, cardinality, sequences, series and limits. |
 | MATH 253    | Multivariable Calculus                            | A course covering vectors in 3D, partial derivatives, directional derivatives, optimization in 3D, lagrange multipliers, and muliple integrals. |
 | MATH 255    | Ordinary Differential Equations                   | Covers first and second order differential equations, linear systems of ODEs, Laplace transforms, and Fourier transforms. |
+| MATH 257    | Partial Differential Equations                   | Covers fourier series; heat, wave and laplace equations; Series solutions to ODEs. |
 | CPEN 221    | Software Construction I                           | An introduction to software design in Java. Topics include object-oriented design, abstract data types, testing, and verification. |
 | ELEC 204    | Linear Circuits                                   | An introductory course on electrical circuits including RLC Circuits, Laplace transforms, phasors, op-amps, diodes, BJTs and FETs. |
-| ENPH 259    | Experimental Techniques                           | A course intended for second year Engineering Physics students. Focuses on basic experimental techniques and analysis, as well as presentation and communication of results. |
 | CIVL 250    | Engineering and Sustainable Development           | A course focusing on sustainability in engineering including life-cycle thinking, environmental and social impacts of infrastructure, climate change, urbanization, and transportation. |
+| APSC 202    | Technical Communication for Engineering Physics   | A technical communications course for engineering students covering written and oral communication, audience awareness, professional development, negotiation, teamwork, and translating complex technical information for diverse audiences. |
 
 
 
